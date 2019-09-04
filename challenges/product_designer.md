@@ -1,7 +1,7 @@
 ## Product Designer
 
 As a part of the design and product team, one of your challenges will be to display freight quotations to the customers.
-. So, for this challenge we would like you to conceptualise and prototype a quote listing page.
+So, for this challenge we would like you to conceptualise and prototype a quote listing page.
 
 You should surface the information you think is most important to help the user decide which quotation and shipment
 option they would like to choose.
