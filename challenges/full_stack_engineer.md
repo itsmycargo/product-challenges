@@ -22,7 +22,7 @@ Write a program that
 - Think about performance, edge-cases and error handling, SOLID principles
 - Think about usability and the experience of using the app (excluding CSS styling)
 
-Once you're finished, deploy your solution. Email us back a link to the deployed application and attach your code as a git bundle (documentation).
+Once you're finished, deploy your solution. Email us back a link to the deployed application and attach your code as a git bundle ([documentation](https://git-scm.com/docs/git-bundle)).
 
 **Please don't push to a public repo e.g. on Github!!**
 
