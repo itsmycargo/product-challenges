@@ -27,10 +27,12 @@ To authenticate, the system has two different users:
 - We're strict on tests, testability, clean and readable code
 - We care about whether or not the app meets the given requirements
 - Think about performance, edge-cases and error handling, SOLID principles
-- Think about usability and the experience of using the app (excluding CSS styling)
+- Think about usability and the experience of using the app
+- We understand that making things pretty with styling is a lot of work, we do
+  expect solution to look usable and have some thoughts on how it looks.
 
-Once you're finished, deploy your solution. Email us back a link to the deployed application and attach your code as a
-git bundle (documentation).
+Once you're finished, email us your solution. Please attach your solution as a git
+bundle (documentation)[https://git-scm.com/docs/git-bundle].
 Please don't push to a public repo e.g. on Github!!
 
 **Estimated duration**
