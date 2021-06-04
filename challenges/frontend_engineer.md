@@ -32,7 +32,7 @@ To authenticate, the system has two different users:
   expect solution to look usable and have some thoughts on how it looks.
 
 Once you're finished, email us your solution. Please attach your solution as a git
-bundle (documentation)[https://git-scm.com/docs/git-bundle].
+bundle [documentation](https://git-scm.com/docs/git-bundle).
 Please don't push to a public repo e.g. on Github!!
 
 **Estimated duration**
