@@ -30,7 +30,7 @@ Write a program that
 
 Write necessary bits to be able to
 
-* Package your solkutioj as Docker container
+* Package your solution as Docker container
 * Deploy it to Kubernetes Cluster
 
 For the Kubernetes cluster, you can use anything that you already have access
